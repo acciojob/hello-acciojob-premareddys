@@ -1,14 +1,14 @@
- main > .accio,#job {
+ #job {
 	width:150px;
 	height:150px;
 	background-color:black;
 }
-/*.accio{
+.accio{
 	width:150px;
 	height:150px;
 	background-color:black;
-}*/
-.hello-accio{
+}
+p.hello-accio{
 	color:white;
 	margin-left:32px;
 	padding:10px
