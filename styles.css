@@ -4,9 +4,7 @@
 	background-color:black;
  }
   .hello-accio{
-	color:white;
-  }
-	.hello-accio > p{
-		margin-left:32px;
+	color: white;
+	margin-left:32px;
 	padding:10px
   }
