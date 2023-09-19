@@ -1,14 +1,8 @@
- #job {
+ main > .accio,#job {
 	width:150px;
 	height:150px;
 	background-color:black;
-}
-.accio{
-	width:150px;
-	height:150px;
-	background-color:black;
-}
-p.hello-accio{
+  p.hello-accio{
 	color:white;
 	margin-left:32px;
 	padding:10px
